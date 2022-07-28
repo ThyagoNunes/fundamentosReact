@@ -27,7 +27,7 @@ Estilização:
 - SASS
 - Styled Components [ Trabalhar com props no styled componentes, theming, useTheme ]
 
-Após ter todo esse conteúdo absorvido. O Mateus Silva Também passou alguns desafios ( Mateus eu consegui ) 
+Após ter todo esse conteúdo absorvido. O Mateus Silva Também passou alguns desafios.
 - Aplicar a ContextApi para alguns componentes 
 - Aplicar a Context para alguns estilos globais. Onde tiver esses valores no código implementados na mão, substituir pela CONTEXT
 - Custom Hook para o Localstorage do theme selecionado na aplicação. [ useState, useEffect ] e Localstorage [ getItem & setItem ] 
