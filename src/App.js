@@ -24,11 +24,11 @@ function App() {
   }
   
   return (
-    <contextApi.Provider value={{
+    <contextApi.Provider value={{   // context provider react
       onToggleTheme:handleToggleTheme,
       selectedTheme:theme
     }}>
-    <ThemeProvider 
+    <ThemeProvider                  // context provider styled
       theme={currentTheme}
     >    
       <GlobalStyle />
